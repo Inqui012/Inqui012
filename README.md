@@ -1,18 +1,19 @@
 
 # 💻 Tech Stack:
-<div align="center" style="margin-bottom: 10px">
+<div align="center" style="margin-bottom: 20px">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 
-<div align="center" style="margin-bottom: 10px">
+<div align="center" style="margin-bottom: 20px">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
+    <img src="https://img.shields.io/badge/Mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
+    <img src="https://img.shields.io/badge/H2Database-3486eb?style=for-the-badge" alt="H2Database">
 </div>
 
-<div align="center" style="margin-bottom: 10px">
+<div align="center" style="margin-bottom: 20px">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 
