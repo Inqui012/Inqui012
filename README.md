@@ -10,7 +10,7 @@
 <div align="center" style="margin-bottom: 20px">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
     <img src="https://img.shields.io/badge/Mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
-    <img src="https://img.shields.io/badge/H2Database-3486eb?style=for-the-badge" alt="H2Database">
+    <img src="https://img.shields.io/badge/H2Database-%3486eb.svg?style=for-the-badge" alt="H2Database">
 </div>
 
 <div align="center" style="margin-bottom: 20px">
